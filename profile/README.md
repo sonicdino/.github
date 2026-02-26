@@ -15,7 +15,7 @@
 | Project | Description |
 |---------|-------------|
 | [**Dinosonic**](https://github.com/sonicdino/dinosonic) | OpenSubsonic server implementation |
-| [**Dino Mobile**](https://github.com/sonicdino/dino) | ~~iOS~~ and Android client |
+| [**Dino Mobile**](https://github.com/sonicdino/dino) | Android and ~~iOS~~ client |
 | [**Dino Desktop**](https://github.com/sonicdino/dino-desktop) | Web, Windows, ~~macOS~~, and Linux client |
 
 ---
