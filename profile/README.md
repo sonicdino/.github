@@ -1,4 +1,4 @@
-# Sonicdino
+# Dino Software
 
 > Music streaming, without the noise.
 
@@ -14,9 +14,9 @@
 
 | Project | Description |
 |---------|-------------|
-| [**Dinosonic**](https://github.com/sonicdino/dinosonic) | OpenSubsonic server implementation |
-| [**Dino Mobile**](https://github.com/sonicdino/dino) | Android and ~~iOS~~ client |
-| [**Dino Desktop**](https://github.com/sonicdino/dino-desktop) | Web, Windows, Linux, and ~~macOS~~ client |
+| [**Dinosonic**](https://github.com/dinosoftware/dinosonic) | OpenSubsonic server implementation |
+| [**Dino Mobile**](https://github.com/dinosoftware/dino) | Android and ~~iOS~~ client |
+| [**Dino Desktop**](https://github.com/dinosoftware/dino-desktop) | Web, Windows, Linux, and ~~macOS~~ client |
 
 ---
 
