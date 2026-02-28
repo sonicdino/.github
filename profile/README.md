@@ -1,4 +1,4 @@
-# Dino Software
+# [Dino Software](https://dino.software)
 
 > Music streaming, without the noise.
 
